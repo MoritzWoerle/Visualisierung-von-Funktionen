@@ -1,0 +1,1 @@
+y + 2 * math.sin(2 * y) - math.sin(x) + 2 - x
